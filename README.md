@@ -1,9 +1,11 @@
 
 <!--![My card name](https://cardivo.vercel.app/api?name=DOT-SER%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://files.catbox.moe/abx456.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=error_code__404___&github=DOT-SER&)
 -->
-![My card name](https://cardivo.vercel.app/api?name=DOT-SER%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/105029178?v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=error_code__404___&github=DOT-SER&)
-</p>
+<div align="center">
 
+![My card name](https://roxegetgithub-cards.vercel.app/api/github-card?username=Dot-ser&theme=granite-circuit)
+</p>
+</div>
 <h2 align="center">𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘁𝘂𝗳𝗳💀</h2>
 <br/>
 <div align="left">
