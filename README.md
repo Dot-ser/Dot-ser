@@ -3,7 +3,7 @@
 -->
 <div align="center">
 
-![My card name](https://roxegetgithub-cards.vercel.app/api/github-card?username=Dot-ser&theme=starlight)
+![My card name](https://roxegetgithub-cards.vercel.app/api/github-card?username=Dot-ser&theme=sakura-bloom)
 </p>
 </div>
 <h2 align="center">𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝘁𝘂𝗳𝗳💀</h2>
